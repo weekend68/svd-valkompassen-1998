@@ -1,6 +1,6 @@
 FROM debian:bookworm-slim
 RUN apt-get update && apt-get install -y apache2 perl && rm -rf /var/lib/apt/lists/*
-RUN a2enmod cgid
+RUN a2dismod mpm_event && a2enmod mpm_prefork && a2enmod cgi
 COPY val98/ /usr/lib/cgi-bin/val98/
 RUN chmod 755 /usr/lib/cgi-bin/val98/valguide.pl \
               /usr/lib/cgi-bin/val98/analys.pl \
