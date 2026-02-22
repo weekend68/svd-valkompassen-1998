@@ -8,5 +8,7 @@ RUN chmod 755 /usr/lib/cgi-bin/val98/valguide.pl \
     && chmod 666 /usr/lib/cgi-bin/val98/val98.log
 COPY apache-val98.conf /etc/apache2/conf-available/val98.conf
 RUN a2enconf val98
+COPY start.sh /start.sh
+RUN chmod +x /start.sh
 EXPOSE 80
-CMD ["apache2ctl", "-D", "FOREGROUND"]
+CMD ["/start.sh"]
