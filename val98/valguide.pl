@@ -238,7 +238,7 @@ sub resultat {
         <TD WIDTH=490 HEIGHT =15><IMG SRC="../assets/auto_generated_images/img_2dd0cc80.gif" WIDTH =625 HEIGHT =1 BORDER=0></TD>
    </TR>
    <TR VALIGN="top" ALIGN="left">
-        <TD WIDTH=490 HEIGHT =690>&nbsp;<center><IMG HEIGHT=249 WIDTH=249 SRC=images/kompassny.gif BORDER=0><b><center><FONT SIZE=+2></b></center>
+        <TD WIDTH=490 HEIGHT =690>&nbsp;<center><IMG HEIGHT=249 WIDTH=249 SRC=/val98/images/kompassny.gif BORDER=0><b><center><FONT SIZE=+2></b></center>
 <p>
 <br><table border=0 width=490 cellpadding=10><tr><td colspan=2><img src=images/strek.gif border=0></td><tr valign=top><td>
 <tr valign=top>

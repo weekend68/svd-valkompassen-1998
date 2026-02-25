@@ -5,13 +5,13 @@ require "common.pl";
 # @parti_bild maste innehalla $antal_partier bildreferenser
 @parti_bild = (
 
-               "http://www-b.svd.se/svd/val_98/images/fpkompass.gif",
-               "http://www-b.svd.se/svd/val_98/images/mpkompass.gif",
-               "http://www-b.svd.se/svd/val_98/images/kdkompass.gif",
-               "http://www-b.svd.se/svd/val_98/images/ckompass.gif",
-               "http://www-b.svd.se/svd/val_98/images/mkompass.gif",
-               "http://www-b.svd.se/svd/val_98/images/skompass.gif",
-               "http://www-b.svd.se/svd/val_98/images/vkompass.gif",
+               "/val98/images/fpkompass.gif",
+               "/val98/images/mpkompass.gif",
+               "/val98/images/kdkompass.gif",
+               "/val98/images/ckompass.gif",
+               "/val98/images/mkompass.gif",
+               "/val98/images/skompass.gif",
+               "/val98/images/vkompass.gif",
                
                );
 #Antalet klasser. En klass ar en grupp pa svarssidan.

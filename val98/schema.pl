@@ -18,10 +18,10 @@ sub print_skjema1 {
 </TABLE>
 
 <TABLE WIDTH=514>
-<TR><TD ALIGN=RIGHT COLSPAN=2><A HREF=\"http://ads.adbannercenter.se/click.ng/site=svd&PagePos=1"><IMG SRC="http://ads.adbannercenter.se/image.ng/site=svd&PagePos=1" WIDTH=468 HEIGHT=60 BORDER=2></A></TD></TR>
-<TR><TD ALIGN=RIGHT WIDTH=514 COLSPAN=2><IMG SRC="http://www-b.svd.se/svd/logo/dot_clear.gif" WIDTH=514 HEIGHT=26></TD></TR>
-<TR><TD WIDTH=115 VALIGN=TOP><IMG SRC="http://www-b.svd.se/svd/logo/small_head.gif" ALT="SvD" WIDTH=115 HEIGHT=60 BORDER=0></TD>
-<TD WIDTH=399 VALIGN=TOP><IMG SRC="http://www.svd.se/svd/logo/huvud.gif" ALT=\"Svenska Dagbladet\" WIDTH=375 HEIGHT=35 BORDER=0>
+<TR><TD ALIGN=RIGHT COLSPAN=2><IMG SRC="/val98/images/moller.gif" WIDTH=468 HEIGHT=60 BORDER=2></TD></TR>
+<TR><TD ALIGN=RIGHT WIDTH=514 COLSPAN=2><IMG SRC="/val98/images/dot_clear.gif" WIDTH=514 HEIGHT=26></TD></TR>
+<TR><TD WIDTH=115 VALIGN=TOP><IMG SRC="/val98/images/small_head.gif" ALT="SvD" WIDTH=115 HEIGHT=60 BORDER=0></TD>
+<TD WIDTH=399 VALIGN=TOP><IMG SRC="/val98/images/huvud.gif" ALT=\"Svenska Dagbladet\" WIDTH=375 HEIGHT=35 BORDER=0>
 <HR ALIGN=LEFT WIDTH=395></TD></TR>
 </TABLE>
 
@@ -33,7 +33,7 @@ sub print_skjema1 {
 </TR>
 <tr><td>
 <br>
-<img src=http://www-b.svd.se/svd/val_98/images/kompass_liten.gif HEIGHT=140 WIDTH=146 border=0 ALIGN=RIGHT>
+<img src=/val98/images/kompassny.gif HEIGHT=140 WIDTH=146 border=0 ALIGN=RIGHT>
 
 V&auml;ljarkompassen hj&auml;lper dig sortera partierna inf&ouml;r valet den 20 september. Du tar st&auml;llning �
 
@@ -71,7 +71,7 @@ fungerar <A HREF="http://www-b.svd.se/svd/val_98/kompassforklar.html">hittar du 
 <tr>
 <td></td>
 <td colspan=10>
-<img src=http://www-b.svd.se/svd/val_98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
+<img src=/val98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
 </td>
 </tr>
 
@@ -94,7 +94,7 @@ fungerar <A HREF="http://www-b.svd.se/svd/val_98/kompassforklar.html">hittar du 
 <tr>
 <td></td>
 <td colspan=10>
-<img src=http://www-b.svd.se/svd/val_98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
+<img src=/val98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
 </td>
 </tr>
 
@@ -117,7 +117,7 @@ fungerar <A HREF="http://www-b.svd.se/svd/val_98/kompassforklar.html">hittar du 
 <tr>
 <td></td>
 <td colspan=10>
-<img src=http://www-b.svd.se/svd/val_98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
+<img src=/val98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
 </td>
 </tr>
 
@@ -140,7 +140,7 @@ fungerar <A HREF="http://www-b.svd.se/svd/val_98/kompassforklar.html">hittar du 
 <tr>
 <td></td>
 <td colspan=10>
-<img src=http://www-b.svd.se/svd/val_98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
+<img src=/val98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
 </td>
 </tr>
 
@@ -163,7 +163,7 @@ fungerar <A HREF="http://www-b.svd.se/svd/val_98/kompassforklar.html">hittar du 
 <tr>
 <td></td>
 <td colspan=10>
-<img src=http://www-b.svd.se/svd/val_98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
+<img src=/val98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
 </td>
 </tr>
 
@@ -186,7 +186,7 @@ fungerar <A HREF="http://www-b.svd.se/svd/val_98/kompassforklar.html">hittar du 
 <tr>
 <td></td>
 <td colspan=10>
-<img src=http://www-b.svd.se/svd/val_98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
+<img src=/val98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
 </td>
 </tr>
 
@@ -209,7 +209,7 @@ fungerar <A HREF="http://www-b.svd.se/svd/val_98/kompassforklar.html">hittar du 
 <tr>
 <td></td>
 <td colspan=10>
-<img src=http://www-b.svd.se/svd/val_98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
+<img src=/val98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
 </td>
 </tr>
 
@@ -233,7 +233,7 @@ fungerar <A HREF="http://www-b.svd.se/svd/val_98/kompassforklar.html">hittar du 
 <tr>
 <td></td>
 <td colspan=10>
-<img src=http://www-b.svd.se/svd/val_98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
+<img src=/val98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
 </td>
 </tr>
 
@@ -256,7 +256,7 @@ fungerar <A HREF="http://www-b.svd.se/svd/val_98/kompassforklar.html">hittar du 
 <tr>
 <td></td>
 <td colspan=10>
-<img src=http://www-b.svd.se/svd/val_98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
+<img src=/val98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
 </td>
 </tr>
 
@@ -279,7 +279,7 @@ fungerar <A HREF="http://www-b.svd.se/svd/val_98/kompassforklar.html">hittar du 
 <tr>
 <td></td>
 <td colspan=10>
-<img src=http://www-b.svd.se/svd/val_98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
+<img src=/val98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
 </td>
 </tr>
 
@@ -302,7 +302,7 @@ fungerar <A HREF="http://www-b.svd.se/svd/val_98/kompassforklar.html">hittar du 
 <tr>
 <td></td>
 <td colspan=10>
-<img src=http://www-b.svd.se/svd/val_98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
+<img src=/val98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
 </td>
 </tr>
 
@@ -325,7 +325,7 @@ fungerar <A HREF="http://www-b.svd.se/svd/val_98/kompassforklar.html">hittar du 
 <tr>
 <td></td>
 <td colspan=10>
-<img src=http://www-b.svd.se/svd/val_98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
+<img src=/val98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
 </td>
 </tr>
 
@@ -348,7 +348,7 @@ fungerar <A HREF="http://www-b.svd.se/svd/val_98/kompassforklar.html">hittar du 
 <tr>
 <td></td>
 <td colspan=10>
-<img src=http://www-b.svd.se/svd/val_98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
+<img src=/val98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
 </td>
 </tr>
 
@@ -371,7 +371,7 @@ fungerar <A HREF="http://www-b.svd.se/svd/val_98/kompassforklar.html">hittar du 
 <tr>
 <td></td>
 <td colspan=10>
-<img src=http://www-b.svd.se/svd/val_98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
+<img src=/val98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
 </td>
 </tr>
 
@@ -394,7 +394,7 @@ fungerar <A HREF="http://www-b.svd.se/svd/val_98/kompassforklar.html">hittar du 
 <tr>
 <td></td>
 <td colspan=10>
-<img src=http://www-b.svd.se/svd/val_98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
+<img src=/val98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
 </td>
 </tr>
 
@@ -417,7 +417,7 @@ fungerar <A HREF="http://www-b.svd.se/svd/val_98/kompassforklar.html">hittar du 
 <tr>
 <td></td>
 <td colspan=10>
-<img src=http://www-b.svd.se/svd/val_98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
+<img src=/val98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
 </td>
 </tr>
 
@@ -440,7 +440,7 @@ fungerar <A HREF="http://www-b.svd.se/svd/val_98/kompassforklar.html">hittar du 
 <tr>
 <td></td>
 <td colspan=10>
-<img src=http://www-b.svd.se/svd/val_98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
+<img src=/val98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
 </td>
 </tr>
 
@@ -463,7 +463,7 @@ fungerar <A HREF="http://www-b.svd.se/svd/val_98/kompassforklar.html">hittar du 
 <tr>
 <td></td>
 <td colspan=10>
-<img src=http://www-b.svd.se/svd/val_98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
+<img src=/val98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
 </td>
 </tr>
 
@@ -486,7 +486,7 @@ fungerar <A HREF="http://www-b.svd.se/svd/val_98/kompassforklar.html">hittar du 
 <tr>
 <td></td>
 <td colspan=10>
-<img src=http://www-b.svd.se/svd/val_98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
+<img src=/val98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
 </td>
 </tr>
 
@@ -509,7 +509,7 @@ fungerar <A HREF="http://www-b.svd.se/svd/val_98/kompassforklar.html">hittar du 
 <tr>
 <td></td>
 <td colspan=10>
-<img src=http://www-b.svd.se/svd/val_98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
+<img src=/val98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
 </td>
 </tr>
 
@@ -532,7 +532,7 @@ fungerar <A HREF="http://www-b.svd.se/svd/val_98/kompassforklar.html">hittar du 
 <tr>
 <td></td>
 <td colspan=10>
-<img src=http://www-b.svd.se/svd/val_98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
+<img src=/val98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
 </td>
 </tr>
 
@@ -555,7 +555,7 @@ fungerar <A HREF="http://www-b.svd.se/svd/val_98/kompassforklar.html">hittar du 
 <tr>
 <td></td>
 <td colspan=10>
-<img src=http://www-b.svd.se/svd/val_98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
+<img src=/val98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
 </td>
 </tr>
 
@@ -578,7 +578,7 @@ fungerar <A HREF="http://www-b.svd.se/svd/val_98/kompassforklar.html">hittar du 
 <tr>
 <td></td>
 <td colspan=10>
-<img src=http://www-b.svd.se/svd/val_98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
+<img src=/val98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
 </td>
 </tr>
 
@@ -601,7 +601,7 @@ fungerar <A HREF="http://www-b.svd.se/svd/val_98/kompassforklar.html">hittar du 
 <tr>
 <td></td>
 <td colspan=10>
-<img src=http://www-b.svd.se/svd/val_98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
+<img src=/val98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
 </td>
 </tr>
 
@@ -624,7 +624,7 @@ fungerar <A HREF="http://www-b.svd.se/svd/val_98/kompassforklar.html">hittar du 
 <tr>
 <td></td>
 <td colspan=10>
-<img src=http://www-b.svd.se/svd/val_98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
+<img src=/val98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
 </td>
 </tr>
 
@@ -647,7 +647,7 @@ fungerar <A HREF="http://www-b.svd.se/svd/val_98/kompassforklar.html">hittar du 
 <tr>
 <td></td>
 <td colspan=10>
-<img src=http://www-b.svd.se/svd/val_98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
+<img src=/val98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
 </td>
 </tr>
 
@@ -670,7 +670,7 @@ fungerar <A HREF="http://www-b.svd.se/svd/val_98/kompassforklar.html">hittar du 
 <tr>
 <td></td>
 <td colspan=10>
-<img src=http://www-b.svd.se/svd/val_98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
+<img src=/val98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
 </td>
 </tr>
 
@@ -693,7 +693,7 @@ fungerar <A HREF="http://www-b.svd.se/svd/val_98/kompassforklar.html">hittar du 
 <tr>
 <td></td>
 <td colspan=10>
-<img src=http://www-b.svd.se/svd/val_98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
+<img src=/val98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
 </td>
 </tr>
 
@@ -716,7 +716,7 @@ fungerar <A HREF="http://www-b.svd.se/svd/val_98/kompassforklar.html">hittar du 
 <tr>
 <td></td>
 <td colspan=10>
-<img src=http://www-b.svd.se/svd/val_98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
+<img src=/val98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
 </td>
 </tr>
 
@@ -739,7 +739,7 @@ fungerar <A HREF="http://www-b.svd.se/svd/val_98/kompassforklar.html">hittar du 
 <tr>
 <td></td>
 <td colspan=10>
-<img src=http://www-b.svd.se/svd/val_98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
+<img src=/val98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
 </td>
 </tr>
 
@@ -763,7 +763,7 @@ fungerar <A HREF="http://www-b.svd.se/svd/val_98/kompassforklar.html">hittar du 
 <tr>
 <td></td>
 <td colspan=10>
-<img src=http://www-b.svd.se/svd/val_98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
+<img src=/val98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
 </td>
 </tr>
 
@@ -787,7 +787,7 @@ fungerar <A HREF="http://www-b.svd.se/svd/val_98/kompassforklar.html">hittar du 
 <tr>
 <td></td>
 <td colspan=10>
-<img src=http://www-b.svd.se/svd/val_98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
+<img src=/val98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
 </td>
 </tr>
 
@@ -811,7 +811,7 @@ fungerar <A HREF="http://www-b.svd.se/svd/val_98/kompassforklar.html">hittar du 
 <tr>
 <td></td>
 <td colspan=10>
-<img src=http://www-b.svd.se/svd/val_98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
+<img src=/val98/images/velgerguiden-svar.gif HEIGHT=32 WIDTH=590 border=0>
 </td>
 </tr>
 

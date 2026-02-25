@@ -2,6 +2,7 @@ FROM debian:bookworm-slim
 RUN apt-get update && apt-get install -y apache2 perl && rm -rf /var/lib/apt/lists/*
 RUN a2enmod cgid && mkdir -p /var/run/apache2/socks
 COPY val98/ /usr/lib/cgi-bin/val98/
+COPY val98/images/ /var/www/html/val98/images/
 RUN chmod 755 /usr/lib/cgi-bin/val98/valguide.pl \
               /usr/lib/cgi-bin/val98/analys.pl \
     && touch /usr/lib/cgi-bin/val98/val98.log \
