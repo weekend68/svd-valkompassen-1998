@@ -1,6 +1,6 @@
 # SvD:s Väljarkompass 1998
 
-> Sveriges troligen första nätbaserade valkompass — publicerad av Svenska Dagbladet inför riksdagsvalet den 20 september 1998. Nu återupplivad och körbar igen, 27 år senare.
+> Sveriges troligen första nätbaserade valkompass — publicerad av Svenska Dagbladet inför riksdagsvalet den 20 september 1998. Nu återupplivad och körbar igen, 28 år senare.
 
 **[➜ Testa Väljarkompassen](https://svd-valkompassen-1998-production.up.railway.app/cgi-bin/val98/valguide.pl)**
 
