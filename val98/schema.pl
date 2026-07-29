@@ -10,6 +10,10 @@ sub print_skjema1 {
 <HEAD>
 	<TITLE>V&auml;lkommen till SvD:s V&auml;ljarkompass 1998</TITLE>
 	<META NAME="viewport" CONTENT="width=630">
+	<META PROPERTY="og:title" CONTENT="Sveriges f&ouml;rsta valkompass 1998 | SvD">
+	<META PROPERTY="og:description" CONTENT="Sveriges f&ouml;rsta n&auml;tbaserade v&auml;ljarkompass, publicerad av Svenska Dagbladet inf&ouml;r riksdagsvalet den 20 september 1998.">
+	<META PROPERTY="og:image" CONTENT="https://$ENV{HTTP_HOST}/val98/images/og-image.jpg">
+	<META PROPERTY="og:url" CONTENT="https://$ENV{HTTP_HOST}/cgi-bin/val98/valguide.pl">
 </HEAD>
 
 <BODY TEXT="#000000" BGCOLOR="#FFFFFF" LINK="#004080" VLINK="#818181" ALINK="#008080">

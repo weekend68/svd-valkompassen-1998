@@ -207,6 +207,10 @@ sub resultat {
 <HEAD>
 <TITLE>Tack f&ouml;r svaret</TITLE>
 <META NAME="viewport" CONTENT="width=630">
+<META PROPERTY="og:title" CONTENT="Sveriges f&ouml;rsta valkompass 1998 | SvD">
+<META PROPERTY="og:description" CONTENT="Sveriges f&ouml;rsta n&auml;tbaserade v&auml;ljarkompass, publicerad av Svenska Dagbladet inf&ouml;r riksdagsvalet den 20 september 1998.">
+<META PROPERTY="og:image" CONTENT="https://$ENV{HTTP_HOST}/val98/images/og-image.jpg">
+<META PROPERTY="og:url" CONTENT="https://$ENV{HTTP_HOST}/cgi-bin/val98/valguide.pl">
 </HEAD>
 
 <BODY BGCOLOR="#FFFFFF" LINK="#FF0000" VLINK="#808080" TEXT="#000000">

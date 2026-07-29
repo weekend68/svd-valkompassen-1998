@@ -44,8 +44,7 @@ Originalkoden var i princip orörd. Dessa justeringar krävdes för att köra p�
 - **Teckenkodning** — några kvarvarande råa Mac Roman-byte (`Miljöpartiet`, `Vänsterpartiet` m.fl.) konverterades till samma HTML-entitetskonvention som resten av koden
 - **Döda bildlänkar** — annons, SvD-logotyp, spacer-gifar och bakgrundsbild pekade på SvD:s nedlagda servrar (`www-b.svd.se`, `ads.adbannercenter.se`). Pekas nu om till lokala kopior; bakgrundsbilden och annonsplatshållaren hittades i ett arkiverat mirror av SvD:s sajt från 1997
 - **`<base href>`-bugg** — en felaktig `<base href>` på resultatsidan gjorde att en lokal bild (`strek.gif`) aldrig gick att ladda. Taggen togs bort
-- **`velgerguiden-svar.gif`** — bildetiketterna för svarsalternativen var på norska (återanvänd grafik från en norsk "velgerguide"), översatta till svenska
-- **`kompassny.gif`** — saknad bild återställd från befintlig `hej.gif` som en tillfällig platshållare (fel skala/motiv på frågesidan, letar fortfarande efter rätt bild)
+- **`kompass-recreated-2026.png`** — kompassbilden på frågesidan var förlorad; återskapad för hand utifrån en bild i tidningens historiska arkiv ([svd.se/arkiv](https://www.svd.se/arkiv))
 - **`kompassforklar.html`** — SvD:s originalförklaringssida hämtad från Internet Archive, städad från Wayback-verktygsfältet, länkad in via en länk som redan fanns på frågesidan (pekade tidigare på den döda servern)
 - **Viewport-meta** — så sidan renderas i rätt bredd på mobil istället för nedzoomad
 - **Informationsruta** — en gul notis längst upp på varje sida förklarar kontexten och länkar till repot
