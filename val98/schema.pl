@@ -9,7 +9,7 @@ sub print_skjema1 {
 <HTML>
 <HEAD>
 	<TITLE>V&auml;lkommen till SvD:s V&auml;ljarkompass 1998</TITLE>
-	<META NAME="viewport" CONTENT="width=device-width, initial-scale=1">
+	<META NAME="viewport" CONTENT="width=630">
 </HEAD>
 
 <BODY TEXT="#000000" BGCOLOR="#FFFFFF" LINK="#004080" VLINK="#818181" ALINK="#008080">

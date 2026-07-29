@@ -114,7 +114,7 @@ print <<END_ANALYS_1;
 <HTML>
 <HEAD>
 	<TITLE>Partitoppen</TITLE>
-	<META NAME="viewport" CONTENT="width=device-width, initial-scale=1">
+	<META NAME="viewport" CONTENT="width=630">
 </HEAD>
 
 <BODY TEXT="#000000" BGCOLOR="#FFFFFF" LINK="#004080" VLINK="#818181" ALINK="#008080">
