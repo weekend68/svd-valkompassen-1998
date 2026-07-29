@@ -13,12 +13,12 @@ sub print_skjema1 {
 
 <BODY TEXT="#000000" BGCOLOR="#FFFFFF" LINK="#004080" VLINK="#818181" ALINK="#008080">
 
-<TABLE BORDER=2 BGCOLOR="#FFFFCC" WIDTH=490 CELLPADDING=8>
-<TR><TD><B>SvD:s V&auml;ljarkompass 1998</B> -- Sveriges f&ouml;rsta n&auml;tbaserade valkompass, publicerad av Svenska Dagbladet inf&ouml;r riksdagsvalet den 20 september 1998. De sju riksdagspartier som deltog var Folkpartiet, Milj&ouml;partiet, Kristdemokraterna, Centerpartiet, Moderaterna, Socialdemokraterna och V&auml;nsterpartiet. Utseendet &auml;r autentiskt -- bilder till SvD:s gamla servrar och annonsbanner syns inte l&auml;ngre.</TD></TR>
+<TABLE BORDER=2 BGCOLOR="#FFFFCC" WIDTH=514 CELLPADDING=8>
+<TR><TD><B>SvD:s V&auml;ljarkompass 1998</B> -- Sveriges f&ouml;rsta valkompass.</TD></TR>
 </TABLE>
 
 <TABLE WIDTH=514>
-<TR><TD ALIGN=RIGHT COLSPAN=2><IMG SRC="/val98/images/moller.gif" WIDTH=468 HEIGHT=60 BORDER=2></TD></TR>
+<TR><TD ALIGN=RIGHT COLSPAN=2><IMG SRC="/val98/images/moller.gif" WIDTH=468 HEIGHT=60 BORDER=0></TD></TR>
 <TR><TD ALIGN=RIGHT WIDTH=514 COLSPAN=2><IMG SRC="/val98/images/dot_clear.gif" WIDTH=514 HEIGHT=26></TD></TR>
 <TR><TD WIDTH=115 VALIGN=TOP><IMG SRC="/val98/images/small_head.gif" ALT="SvD" WIDTH=115 HEIGHT=60 BORDER=0></TD>
 <TD WIDTH=399 VALIGN=TOP><IMG SRC="/val98/images/huvud.gif" ALT=\"Svenska Dagbladet\" WIDTH=375 HEIGHT=35 BORDER=0>
@@ -50,8 +50,7 @@ fungerar <A HREF="/kompassforklar.html">hittar du h&auml;r</A>
 </td></tr>
 </table>
 <!-- Modern testhj&auml;lp, inte del av originalsidan fr&aring;n 1998 -->
-<p><button type="button" onclick="fuskaMedSlumpadeSvar()">&#127922; Slumpa alla svar (testfusk)</button>
-<font size="-2" color="#999999">&nbsp;(tillagt 2026, fanns inte i originalet fr&aring;n 1998)</font></p>
+<p><button type="button" onclick="fuskaMedSlumpadeSvar()">&#127922; Slumpa alla svar (testfusk tillagt 2026, fanns inte i originalet fr&aring;n 1998)</button></p>
 <script>
 // Partiernas exakta svar, samma data som val98/data.txt (&auml;ndras inte l&auml;ngre)
 var partiSvar = [

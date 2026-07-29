@@ -210,13 +210,13 @@ sub resultat {
 
 <BODY BGCOLOR="#FFFFFF" LINK="#FF0000" VLINK="#808080" TEXT="#000000">
 
-<TABLE BORDER=2 BGCOLOR="#FFFFCC" WIDTH=490 CELLPADDING=8>
-<TR><TD><B>SvD:s V&auml;ljarkompass 1998</B> -- Sveriges f&ouml;rsta n&auml;tbaserade valkompass, publicerad av Svenska Dagbladet inf&ouml;r riksdagsvalet den 20 september 1998. De sju riksdagspartier som deltog var Folkpartiet, Milj&ouml;partiet, Kristdemokraterna, Centerpartiet, Moderaterna, Socialdemokraterna och V&auml;nsterpartiet. Utseendet &auml;r autentiskt -- bilder till SvD:s gamla servrar och annonsbanner syns inte l&auml;ngre.</TD></TR>
+<TABLE BORDER=2 BGCOLOR="#FFFFCC" WIDTH=514 CELLPADDING=8>
+<TR><TD><B>SvD:s V&auml;ljarkompass 1998</B> -- Sveriges f&ouml;rsta valkompass.</TD></TR>
 </TABLE>
 
   <TABLE WIDTH="514" >
 <TR>
-<TD align=right COLSPAN=2><IMG SRC="/val98/images/moller.gif" HEIGHT=60 WIDTH=468 BORDER=2></TD>
+<TD align=right COLSPAN=2><IMG SRC="/val98/images/moller.gif" HEIGHT=60 WIDTH=468 BORDER=0></TD>
 </TR>
 
 <TR>
@@ -389,7 +389,7 @@ sub error {
 
 <BODY TEXT="#000000" BGCOLOR="#FFFFFF" LINK="#004080" VLINK="#818181" ALINK="#008080">
 
-<P><IMG SRC=\"/val98/images/moller.gif\" WIDTH=468 HEIGHT=60 BORDER=2></P>
+<P><IMG SRC=\"/val98/images/moller.gif\" WIDTH=468 HEIGHT=60 BORDER=0></P>
 END_ERROR
     
     print "$string";
