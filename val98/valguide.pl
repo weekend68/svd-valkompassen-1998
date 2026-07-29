@@ -234,10 +234,10 @@ sub resultat {
   
   <TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=490>
    <TR VALIGN="top" ALIGN="left">
-        <TD WIDTH=490 HEIGHT =15><IMG SRC="/val98/images/dot_clear.gif" WIDTH=1 HEIGHT=250 BORDER=0></TD>
+        <TD WIDTH=490 HEIGHT =15><IMG SRC="/val98/images/dot_clear.gif" WIDTH=625 HEIGHT=1 BORDER=0></TD>
    </TR>
    <TR VALIGN="top" ALIGN="left">
-        <TD WIDTH=490 HEIGHT =690>&nbsp;<center><IMG HEIGHT=249 WIDTH=249 SRC=/val98/images/kompassny.gif BORDER=0><b><center><FONT SIZE=+2></b></center>
+        <TD WIDTH=490 HEIGHT =690>&nbsp;<center><IMG HEIGHT=250 WIDTH=375 SRC=/val98/images/kompassny.gif BORDER=0><b><center><FONT SIZE=+2></b></center>
 <p>
 <br><table border=0 width=490 cellpadding=10><tr><td colspan=2><img src=/val98/images/strek.gif border=0></td><tr valign=top><td>
 <tr valign=top>

@@ -53,19 +53,22 @@ fungerar <A HREF="/kompassforklar.html">hittar du h&auml;r</A>
 <p><button type="button" onclick="fuskaMedSlumpadeSvar()">&#127922; Slumpa alla svar (testfusk)</button>
 <font size="-2" color="#999999">&nbsp;(tillagt 2026, fanns inte i originalet fr&aring;n 1998)</font></p>
 <script>
+// Partiernas exakta svar, samma data som val98/data.txt (&auml;ndras inte l&auml;ngre)
+var partiSvar = [
+    "244455543151151441511525512115555",
+    "242521114514531151551554555115315",
+    "142451425141143141422524411515555",
+    "442541425142121151421545532115524",
+    "324355355151154513414135511514552",
+    "344533111135111151511524545115514",
+    "152511111515541151551542555155215"
+];
 function fuskaMedSlumpadeSvar() {
     var form = document.forms[0];
-    var grupper = {};
-    for (var i = 0; i < form.elements.length; i++) {
-        var el = form.elements[i];
-        if (el.type === 'radio') {
-            if (!grupper[el.name]) { grupper[el.name] = []; }
-            grupper[el.name].push(el);
-        }
-    }
-    for (var namn in grupper) {
-        var alternativ = grupper[namn];
-        alternativ[Math.floor(Math.random() * alternativ.length)].checked = true;
+    var parti = partiSvar[Math.floor(Math.random() * partiSvar.length)];
+    for (var j = 0; j < parti.length; j++) {
+        form.elements['svar' + j].value = parti.charAt(j);
+        form.elements['diff' + j].value = String(Math.floor(Math.random() * 4) + 1);
     }
 }
 </script>
