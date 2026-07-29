@@ -14,7 +14,7 @@ sub print_skjema1 {
 
 <BODY TEXT="#000000" BGCOLOR="#FFFFFF" LINK="#004080" VLINK="#818181" ALINK="#008080">
 
-<TABLE BORDER=2 BGCOLOR="#FFFFCC" WIDTH=514 CELLPADDING=8>
+<TABLE BORDER=2 BGCOLOR="#FFFFCC" WIDTH=626 CELLPADDING=8>
 <TR><TD><B>SvD:s V&auml;ljarkompass 1998</B> -- Sveriges f&ouml;rsta n&auml;tbaserade valkompass, publicerad av Svenska Dagbladet inf&ouml;r riksdagsvalet den 20 september 1998. De sju riksdagspartier som deltog var Folkpartiet, Milj&ouml;partiet, Kristdemokraterna, Centerpartiet, Moderaterna, Socialdemokraterna och V&auml;nsterpartiet. Koden finns p&aring; <a href="https://github.com/weekend68/svd-valkompassen-1998">GitHub</a>.</TD></TR>
 </TABLE>
 
