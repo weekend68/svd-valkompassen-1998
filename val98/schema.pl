@@ -34,7 +34,7 @@ sub print_skjema1 {
 </TR>
 <tr><td>
 <br>
-<img src=/val98/images/kompassny.gif HEIGHT=140 WIDTH=146 border=0 ALIGN=RIGHT>
+<img src=/val98/images/kompass-recreated-2026.png HEIGHT=140 WIDTH=146 border=0 ALIGN=RIGHT>
 
 V&auml;ljarkompassen hj&auml;lper dig sortera partierna inf&ouml;r valet den 20 september. Du tar st&auml;llning
 
