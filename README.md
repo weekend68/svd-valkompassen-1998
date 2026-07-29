@@ -20,7 +20,7 @@ Folkpartiet · Miljöpartiet · Kristdemokraterna · Centerpartiet · Moderatern
 
 ## Teknik
 
-Applikationen är en klassisk statslös CGI-app från 1998:
+Applikationen är en klassisk CGI-app från 1998:
 
 | Fil | Beskrivning |
 |-----|-------------|
