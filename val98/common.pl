@@ -13,12 +13,12 @@ $antal_partier = 7;
 
 @parti_navn = (
 "Folkpartiet",
-"Miljšpartiet",
+"Milj&ouml;partiet",
 "Kristdemokraterna",
 "Centerpartiet",
 "Moderaterna",
 "Socialdemokraterna",
-"VŠnsterpartiet"
+"V&auml;nsterpartiet"
 
 );
 

@@ -116,17 +116,17 @@ print <<END_ANALYS_1;
 	<TITLE>Partitoppen</TITLE>
 </HEAD>
 
-<BODY TEXT="#000000" BGCOLOR="#FFFFFF"  BACKGROUND="http://www-b.svd.se/svd/logo/background.gif" LINK="#004080" VLINK="#818181" ALINK="#008080">
+<BODY TEXT="#000000" BGCOLOR="#FFFFFF" LINK="#004080" VLINK="#818181" ALINK="#008080">
 
 <TABLE BORDER=2 BGCOLOR="#FFFFCC" WIDTH=490 CELLPADDING=8>
 <TR><TD><B>SvD:s V&auml;ljarkompass 1998</B> -- Sveriges f&ouml;rsta n&auml;tbaserade valkompass, publicerad av Svenska Dagbladet inf&ouml;r riksdagsvalet den 20 september 1998. De sju riksdagspartier som deltog var Folkpartiet, Milj&ouml;partiet, Kristdemokraterna, Centerpartiet, Moderaterna, Socialdemokraterna och V&auml;nsterpartiet. Utseendet &auml;r autentiskt -- bilder till SvD:s gamla servrar och annonsbanner syns inte l&auml;ngre.</TD></TR>
 </TABLE>
 
 <TABLE WIDTH=514>
-<TR><TD ALIGN=RIGHT COLSPAN=2><A HREF=\"http://ads.adbannercenter.se/click.ng/site=svd&PagePos=1"><IMG SRC="http://ads.adbannercenter.se/image.ng/site=svd&PagePos=1" WIDTH=468 HEIGHT=60 BORDER=2></A></TD></TR>
-<TR><TD ALIGN=RIGHT WIDTH=514 COLSPAN=2><IMG SRC="http://www-b.svd.se/svd/logo/dot_clear.gif" WIDTH=514 HEIGHT=26></TD></TR>
-<TR><TD WIDTH=115 VALIGN=TOP><IMG SRC="http://www-b.svd.se/svd/logo/small_head.gif" ALT="SvD" WIDTH=115 HEIGHT=60 BORDER=0></TD>
-<TD WIDTH=399 VALIGN=TOP><IMG SRC="http://www.svd.se/svd/logo/huvud.gif" ALT=\"Svenska Dagbladet\" WIDTH=375 HEIGHT=35 BORDER=0>
+<TR><TD ALIGN=RIGHT COLSPAN=2><IMG SRC="/val98/images/moller.gif" WIDTH=468 HEIGHT=60 BORDER=2></TD></TR>
+<TR><TD ALIGN=RIGHT WIDTH=514 COLSPAN=2><IMG SRC="/val98/images/dot_clear.gif" WIDTH=514 HEIGHT=26></TD></TR>
+<TR><TD WIDTH=115 VALIGN=TOP><IMG SRC="/val98/images/small_head.gif" ALT="SvD" WIDTH=115 HEIGHT=60 BORDER=0></TD>
+<TD WIDTH=399 VALIGN=TOP><IMG SRC="/val98/images/huvud.gif" ALT=\"Svenska Dagbladet\" WIDTH=375 HEIGHT=35 BORDER=0>
 <HR ALIGN=LEFT WIDTH=395></TD></TR>
 </TABLE>
 

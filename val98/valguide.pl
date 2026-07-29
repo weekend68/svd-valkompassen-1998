@@ -206,10 +206,9 @@ sub resultat {
 <HTML>
 <HEAD>
 <TITLE>Tack f&ouml;r svaret</TITLE>
-<base href=http://www-b.svd.se/svd/val_98/images.kompassny.gif>
 </HEAD>
 
-<BODY BGCOLOR="#FFFFFF" BACKGROUND="http://www-b.svd.se/svd/logo/background.gif" LINK="#FF0000" VLINK="#808080" TEXT="#000000">
+<BODY BGCOLOR="#FFFFFF" LINK="#FF0000" VLINK="#808080" TEXT="#000000">
 
 <TABLE BORDER=2 BGCOLOR="#FFFFCC" WIDTH=490 CELLPADDING=8>
 <TR><TD><B>SvD:s V&auml;ljarkompass 1998</B> -- Sveriges f&ouml;rsta n&auml;tbaserade valkompass, publicerad av Svenska Dagbladet inf&ouml;r riksdagsvalet den 20 september 1998. De sju riksdagspartier som deltog var Folkpartiet, Milj&ouml;partiet, Kristdemokraterna, Centerpartiet, Moderaterna, Socialdemokraterna och V&auml;nsterpartiet. Utseendet &auml;r autentiskt -- bilder till SvD:s gamla servrar och annonsbanner syns inte l&auml;ngre.</TD></TR>
@@ -217,17 +216,17 @@ sub resultat {
 
   <TABLE WIDTH="514" >
 <TR>
-<TD align=right COLSPAN=2><A HREF="http://ads.adbannercenter.se/click.ng/site=svd&PagePos=1"><IMG SRC="http://ads.adbannercenter.se/image.ng/site=svd&PagePos=1" HEIGHT=60 WIDTH=468></A></TD>
+<TD align=right COLSPAN=2><IMG SRC="/val98/images/moller.gif" HEIGHT=60 WIDTH=468 BORDER=2></TD>
 </TR>
 
 <TR>
-<TD align=right width=514 COLSPAN=2><IMG SRC="../../../svd/logo/dot_clear.gif" HEIGHT=26 WIDTH=514></TD>
+<TD align=right width=514 COLSPAN=2><IMG SRC="/val98/images/dot_clear.gif" HEIGHT=26 WIDTH=514></TD>
 </TR>
 
 <TR>
-<TD width=115 valign=top><IMG SRC="../../../svd/logo/small_head.gif" HEIGHT=60 WIDTH=115></TD>
+<TD width=115 valign=top><IMG SRC="/val98/images/small_head.gif" HEIGHT=60 WIDTH=115></TD>
 
-<TD width=399 valign=top><IMG SRC="../../../svd/logo/huvud.gif" HEIGHT=35 WIDTH=375>
+<TD width=399 valign=top><IMG SRC="/val98/images/huvud.gif" HEIGHT=35 WIDTH=375>
 
 <HR align=left width=375></TD>
 </TR>
@@ -235,12 +234,12 @@ sub resultat {
   
   <TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=490>
    <TR VALIGN="top" ALIGN="left">
-        <TD WIDTH=490 HEIGHT =15><IMG SRC="../assets/auto_generated_images/img_2dd0cc80.gif" WIDTH =625 HEIGHT =1 BORDER=0></TD>
+        <TD WIDTH=490 HEIGHT =15><IMG SRC="/val98/images/dot_clear.gif" WIDTH=1 HEIGHT=250 BORDER=0></TD>
    </TR>
    <TR VALIGN="top" ALIGN="left">
         <TD WIDTH=490 HEIGHT =690>&nbsp;<center><IMG HEIGHT=249 WIDTH=249 SRC=/val98/images/kompassny.gif BORDER=0><b><center><FONT SIZE=+2></b></center>
 <p>
-<br><table border=0 width=490 cellpadding=10><tr><td colspan=2><img src=images/strek.gif border=0></td><tr valign=top><td>
+<br><table border=0 width=490 cellpadding=10><tr><td colspan=2><img src=/val98/images/strek.gif border=0></td><tr valign=top><td>
 <tr valign=top>
 <td>Du f&ouml;refaller <font size=+1 color=#339900>SYMPATISERA</font> med:<BR>Partiet/partierna
  i denna grupp har angivit st&aring;ndpunkter som i h&ouml;g grad sammanfaller med dina. Det/de fick l&auml;gst po&auml;ngsumma och d&auml;rf&ouml;r tycks dina &aring;sikter st&auml;mma b&auml;st med detta/dessa. </td>
@@ -280,7 +279,7 @@ RESULTAT1
 </td>
 </tr>
 
-<tr><td colspan=2><img src=images/strek.gif border=0></td><tr valign=top><td>Du f&ouml;refaller ha <font size=+1 color=#ff9900>MYCKET GEMENSAMT</font> med: <p>Partiet/partierna i den h&auml;r gruppen 
+<tr><td colspan=2><img src=/val98/images/strek.gif border=0></td><tr valign=top><td>Du f&ouml;refaller ha <font size=+1 color=#ff9900>MYCKET GEMENSAMT</font> med: <p>Partiet/partierna i den h&auml;r gruppen 
 har angivit st&aring;ndpunkter som i ganska stor utstr&auml;ckning st&auml;mmer med dina.
 </td>
 <td>
@@ -304,7 +303,7 @@ RESULTAT2
 </td>
 </tr>
 
-<tr><td colspan=2><img src=images/strek.gif border=0></td><tr valign=top><td>Du f&ouml;refaller ha <font size=+1 color=#ff9900>LITE GEMENSAMT</font> med: <p>Partiet/partierna i den h&auml;r gruppen har angivit
+<tr><td colspan=2><img src=/val98/images/strek.gif border=0></td><tr valign=top><td>Du f&ouml;refaller ha <font size=+1 color=#ff9900>LITE GEMENSAMT</font> med: <p>Partiet/partierna i den h&auml;r gruppen har angivit
 st&aring;ndpunkter som bara delvis st&auml;mmer &ouml;verens med dina &aring;sikter. Partiet/partierna som &auml;nd&aring; ligger n&auml;rmast dig &auml;r:</td>
 <td>
 RESULTAT3
@@ -326,7 +325,7 @@ RESULTAT3
 </td>
 </tr>
 
-<tr><td colspan=2><img src=images/strek.gif border=0></td><tr valign=top><td>Du f&ouml;refaller ha <font size=+1 color=#ff0000>INGET GEMENSAMT</font>med: <p>Partiet/partierna i den h&auml;r gruppen har
+<tr><td colspan=2><img src=/val98/images/strek.gif border=0></td><tr valign=top><td>Du f&ouml;refaller ha <font size=+1 color=#ff0000>INGET GEMENSAMT</font>med: <p>Partiet/partierna i den h&auml;r gruppen har
 angivit st&aring;ndpunkter som i h&ouml;g grad g&aring;r p&aring; tv&auml;rs mot dina &aring;sikter. </td>
 <td>
 RESULTAT4
@@ -349,7 +348,7 @@ RESULTAT4
 </td>
 </tr>
 
-<tr><td colspan=2><img src=images/strek.gif border=0></td>
+<tr><td colspan=2><img src=/val98/images/strek.gif border=0></td>
 </table><p><br></b></center> <font size=+1 color=#ff0000></font></font>
 <A HREF=\"http://www-b.svd.se/svd/rostning/kompass.html">
 <B>Fick du det svar du v&auml;ntade dig? Svara h&auml;r</B></A>
@@ -390,7 +389,7 @@ sub error {
 
 <BODY TEXT="#000000" BGCOLOR="#FFFFFF" LINK="#004080" VLINK="#818181" ALINK="#008080">
 
-<P><A HREF=\"http://ads.adbannercenter.se/click.ng/site=svd&PagePos=1\"><IMG SRC=\"http://ads.adbannercenter.se/image.ng/site=svd&PagePos=1\" WIDTH=468 HEIGHT=60 BORDER=2></A></P>
+<P><IMG SRC=\"/val98/images/moller.gif\" WIDTH=468 HEIGHT=60 BORDER=2></P>
 END_ERROR
     
     print "$string";

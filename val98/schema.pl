@@ -35,20 +35,41 @@ sub print_skjema1 {
 <br>
 <img src=/val98/images/kompassny.gif HEIGHT=140 WIDTH=146 border=0 ALIGN=RIGHT>
 
-V&auml;ljarkompassen hj&auml;lper dig sortera partierna inf&ouml;r valet den 20 september. Du tar st&auml;llning �
+V&auml;ljarkompassen hj&auml;lper dig sortera partierna inf&ouml;r valet den 20 september. Du tar st&auml;llning
 
 till ett antal p&aring;st&aring;enden. Dina svar j&auml;mf&ouml;rs med de sju riksdagspartiernas st&aring;ndpunkter 
 (ja, vi har st&auml;llt samma fr&aring;gor till dem) och p&aring; svarssidan
 f&aring;r du besked om hur dina &aring;sikter f&ouml;rh&aring;ller sig till partiernas. Naturligtvis &auml;r dina svar
 hemliga och kan inte sp&aring;ras till dig.
-En mer detaljerad beskrivning av hur V�ljarkompassen
-fungerar <A HREF="http://www-b.svd.se/svd/val_98/kompassforklar.html">hittar du h�r</A>
+En mer detaljerad beskrivning av hur V&auml;ljarkompassen
+fungerar <A HREF="/kompassforklar.html">hittar du h&auml;r</A>
 <P>
 <B>1. F&ouml;rst m&aring;ste du kryssa f&ouml;r hur enig eller oenig du &auml;r med  p&aring;st&aring;endet.<p>
 2. D&auml;refter anger du hur viktig denna fr&aring;ga &auml;r f&ouml;r dig.<p>
 </B>Om du inte kryssar f&ouml;r b&aring;da kolumnerna p&aring; varje fr&aring;ga f&aring;r du ett felmeddelande.</font>
 </td></tr>
 </table>
+<!-- Modern testhj&auml;lp, inte del av originalsidan fr&aring;n 1998 -->
+<p><button type="button" onclick="fuskaMedSlumpadeSvar()">&#127922; Slumpa alla svar (testfusk)</button>
+<font size="-2" color="#999999">&nbsp;(tillagt 2026, fanns inte i originalet fr&aring;n 1998)</font></p>
+<script>
+function fuskaMedSlumpadeSvar() {
+    var form = document.forms[0];
+    var grupper = {};
+    for (var i = 0; i < form.elements.length; i++) {
+        var el = form.elements[i];
+        if (el.type === 'radio') {
+            if (!grupper[el.name]) { grupper[el.name] = []; }
+            grupper[el.name].push(el);
+        }
+    }
+    for (var namn in grupper) {
+        var alternativ = grupper[namn];
+        alternativ[Math.floor(Math.random() * alternativ.length)].checked = true;
+    }
+}
+</script>
+
 <form method="post" action="/cgi-bin/val98/valguide.pl">
 <input type=hidden name=skjema value=1>
 <TABLE CELLSPACING=0 BORDER=1 WIDTH=626>
