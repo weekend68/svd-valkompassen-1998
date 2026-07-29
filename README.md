@@ -47,6 +47,7 @@ Originalkoden var i princip orörd. Dessa justeringar krävdes för att köra p�
 - **`kompass-recreated-2026.png`** — kompassbilden på frågesidan var förlorad; återskapad för hand utifrån en bild i tidningens historiska arkiv ([svd.se/arkiv](https://www.svd.se/arkiv))
 - **`kompassforklar.html`** — SvD:s originalförklaringssida hämtad från Internet Archive, städad från Wayback-verktygsfältet, länkad in via en länk som redan fanns på frågesidan (pekade tidigare på den döda servern)
 - **Viewport-meta** — så sidan renderas i rätt bredd på mobil istället för nedzoomad
+- **OG-taggar** - för nutida delning i sociala medier, inkl ny `og-image.jpg` 
 - **Informationsruta** — en gul notis längst upp på varje sida förklarar kontexten och länkar till repot
 - **Testfusk-knapp** — en knapp på frågesidan som fyller i ett slumpat partis exakta svar (garanterar en träff), för att snabbt kunna testa flödet
 
@@ -59,7 +60,7 @@ Allt annat — HTML, beräkningslogik, formulärstruktur, loggformat — är ide
 Följande fungerar inte längre, och det är helt okej. Det är en del av den autentiska 1998-känslan:
 
 - Länken "Fick du det svar du väntade dig? Svara här" (död URL till `www-b.svd.se`)
-- `kompassny.gif` på frågesidan visar fortfarande fel bild (en tillfällig platshållare — rätt bild är inte återfunnen än)
+- Länken "Åter till SvD Val -98" (död URL till `www-b.svd.se`)
 
 ---
 
